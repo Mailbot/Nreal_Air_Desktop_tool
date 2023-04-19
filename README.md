@@ -17,3 +17,6 @@ This allows the user to ineract with their Desktop using the Nreal Air's on Wind
 # Fundraising:
 Also, for people wanting something on the Steamdeck, I'd love to make a remote-desktop version that lets you connect in to your main PC but I'd either need to raise enough cash to buy this plugin as I don't have the time to develop such a system (About $250 usd) : Unity Asset Store
 So if you'd like such a tool, I'll be collecting cash here: https://www.buymeacoffee.com/adampinto
+
+Big thanks to MSmithDev for developing the windows API that this tool is using:
+https://github.com/MSmithDev/AirAPI_Windows
