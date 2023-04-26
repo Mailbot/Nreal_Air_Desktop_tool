@@ -4,10 +4,11 @@ This allows the user to ineract with their Desktop using the Nreal Air's on Wind
 # Features
 - Create any Desktop and position it as desired
 - Create any open individual window and position it (Even if its behind another window)
-- Clicking on a window will move the cursor to the screen, the user can then retrieve the mouse back to the tool with a shortcut
+- Clicking on a window will move the cursor to the screen, the user can then retrieve the mouse back to the tool with TAB + Space
 - Set the curvature of each window as desired
 - Saves your Desktop/Windows settings to a file and allows you to close the application and open it with the exact same setup
-- Easy to select and edit and select each screen
+- Easy to select, edit and select each screen
+- Drift correction
 - Works on all Windows hardware, no issues with non-dedicated GPU or older GPU's
 
 # Todo:
@@ -30,7 +31,9 @@ This allows the user to ineract with their Desktop using the Nreal Air's on Wind
 - Press ESCAPE to open and close the menu
 - Press SPACE (When app in focus) to re-allign the screen to compensate the drift or close and re-open the menu
 - Click on a window to move the cursor to that window / position
-- Press TAB + SPACE to move the  cursor and focus back to the tool 
+- Press TAB + SPACE to move the  cursor and focus back to the tool
+- Drag the "Drift Correction" slider to fix the drift you might be experiencing, for my use "0.016" was a perfect value
+- Click on the Left Windows or Desktops to create a display that can be moved and updated (All window settings will be remembered)
 
 # Fundraising:
 Also, for people wanting something on the Steamdeck, I'd love to make a remote-desktop version that lets you connect in to your main PC but I'd either need to raise enough cash to buy this plugin as I don't have the time to develop such a system (About $250 usd) : Unity Asset Store
